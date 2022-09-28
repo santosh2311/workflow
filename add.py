@@ -1,4 +1,4 @@
-a = int(input("enter the first no."))
-b = int(input("enter the second no."))
+a = 45
+b = 34
 sum = a+b
 print(sum)
